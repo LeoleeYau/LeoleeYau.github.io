@@ -15,5 +15,5 @@ My research interests include software engineering and security, with a particul
 
 I am fortunate to have been mentored by Professor **[Tao Zhang](https://cszhangtao.github.io/)**, a renowned expert in the field.
 
-You can contact me by [Wechat](../images/wechat.jpg)
+You can contact me by [Wechat](../images/wechat.jpg).
 

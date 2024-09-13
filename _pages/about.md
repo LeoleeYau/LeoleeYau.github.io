@@ -15,5 +15,7 @@ My research interests include software engineering and security, with a particul
 
 I am fortunate to have been mentored by Professor **[Tao Zhang](https://cszhangtao.github.io/)**, a renowned expert in the field.
 
+You can find my CV here: [YL's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 You can contact me by [Wechat](../images/wechat.jpg).
 

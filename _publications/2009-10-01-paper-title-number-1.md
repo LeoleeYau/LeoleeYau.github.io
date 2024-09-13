@@ -2,7 +2,7 @@
 title: "JOWMDroid: Android malware detection based on feature weighting with joint optimization of weight-mapping and classifier parameters"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-01-01-JOWMDroid
 date: 2021-01-01
 venue: 'Computers & Security'
 paperurl: 'https://doi.org/10.1016/j.cose.2020.102086'
